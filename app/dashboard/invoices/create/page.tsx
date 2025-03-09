@@ -10,8 +10,7 @@ export default async function Page(){
         breadcrumbs={
             [
                 {label:'Invoices',href:'/dashboard/invoices'},
-                {label:'Create Invoice',href:'/dashboard/invoices/create',active:true},
-                
+                {label:'Create Invoice',href:'/dashboard/invoices/create',active:true},   
             ]
         }
         />
